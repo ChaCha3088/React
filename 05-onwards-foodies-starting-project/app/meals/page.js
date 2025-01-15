@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function Meal() {
+export default function Meals() {
     return (
         <main>
             <h1>The Meal</h1>
